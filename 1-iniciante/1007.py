@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+res = (a * b) - (d * c)
+print("DIFERENCA = {}".format(res))
